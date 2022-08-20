@@ -3,7 +3,7 @@
     padding: 0; 
 }
 body{
-    background-color: #e4f9f5;
+   
     text-align: center;
     font-family: 'Merriweather', serif;
     
@@ -21,33 +21,43 @@ body{
 img{
     position: absolute;
 }
-h1{font-family: 'Sacramento', cursive;
-    font-size: 90px;
-   color: #69bfbf;
+h1{
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 58px;
 }
 
+h2{ font-family: 'Montserrat', sans-serif; }
 
+h2{font-family: 'Montserrat', sans-serif;}
 .cloud1{
-    width: 291px;
-    height: 150px;
-    left: 358px;
-    top: 232px;
+    width: 217px;
+    height: 113px;
+    left: 300px;
+    top: 210px;
     position: absolute;
+
 }
 .cloud2{
-    width: 291px;
-    height: 150px;
-
+    width: 217px;
+    height: 113px;
     top: 12px;
-    left: 1082px;
+    left: 800px;
     position: absolute;
 }
 .mountain1{
    
     height:600px;
     position: absolute;
-    left: 341px;
+    left: 165px;
     top: 275px;
-   
+}
+.mountain2{
+    left:0px;
+    height: 523px
 }
 
+.myprofilephoto{
+    height: 100px;
+    width: 100px;
+}
