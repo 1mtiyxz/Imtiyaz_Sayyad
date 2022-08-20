@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+body{
+    background-color: #e4f9f5;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 130px;
+}
+.name{
+    margin-top: 0;
+}
+
+img{
+    position: absolute;
+}
+h1{font-family: 'Sacramento', cursive;
+    font-size: 90px;
+   color: #69bfbf;
+}
+
+
+.cloud1{
+    width: 291px;
+    height: 150px;
+    left: 358px;
+    top: 232px;
+    position: absolute;
+}
+.cloud2{
+    width: 291px;
+    height: 150px;
+
+    top: 12px;
+    left: 1082px;
+    position: absolute;
+}
+.mountain1{
+   
+    height:600px;
+    position: absolute;
+    left: 341px;
+    top: 275px;
+   
+}
+
